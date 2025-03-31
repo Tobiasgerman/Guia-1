@@ -141,10 +141,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf90fc391f74b14ea596fe8050a9a6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreUsuario: 
-  edadUsuario: 0
-  alturaUsuario: 0
-  esDonante: 0
+  nombreUsuario: Tobias
+  edadUsuario: 16
+  alturaUsuario: 1.75
+  esDonante: 1
 --- !u!4 &15985239
 Transform:
   m_ObjectHideFlags: 0

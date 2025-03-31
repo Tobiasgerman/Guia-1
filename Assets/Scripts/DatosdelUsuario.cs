@@ -7,11 +7,12 @@ public class DatosdelUsuario : MonoBehaviour
     public string nombreUsuario;
     public int edadUsuario;
     public float alturaUsuario;
-    public bool esDonante;
+    public bool esDonante; 
 
     // Start is called before the first frame update
     void Start()
     {
+        Debug.Log("Mi nombre es " + nombreUsuario + ", tengo " + edadUsuario + ", mido" + alturaUsuario + "y es" + esDonante + " que soy donante de organos." ); // devolviendo valores por consola
         
     }
 
